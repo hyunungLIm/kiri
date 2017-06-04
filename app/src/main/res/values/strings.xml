@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="q_text">콘스탄티노플은 터키의 가장 큰 도시이다</string>
+    <string name="btn_true">TRUE</string>
+    <string name="btn_false">FALSE</string>
+    <string name="correct_toast">정답!</string>
+    <string name="incorrect_toast">틀림!</string>
+</resources>
